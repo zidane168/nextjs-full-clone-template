@@ -1,0 +1,531 @@
+{
+    "header": {
+        "logout": "Logout"
+    },
+    "loginPage": {
+        "login": "Log in.",
+        "email": "Email",
+        "password": "Password"
+    },
+    "company": {
+        "company": "Company Info",
+        "view": "Company Detail",
+        "edit": "Company Edit",
+        "create": "Company Create"
+    },
+    "contactInfo": {
+        "contactInfo": "Contact Info Management",
+        "view": "Contact Info Detail",
+        "edit": "Contact Info Edit",
+        "create": "Contact Info Create",
+        "fax": "Fax",
+        "whatsapp": "WhatsApp"
+    },
+    "store": {
+        "store": "Store Info",
+        "view": "Store Detail",
+        "edit": "Store Edit",
+        "create": "Store Create"
+    },
+    "new": {
+        "new": "News Management",
+        "view": "News Detail",
+        "edit": "News Edit",
+        "create": "News Create",
+        "contentImage": "Content Image",
+        "eventDate": "Event Date"
+    },
+    "sidebar": {
+        "Region": "Region",
+        "banner": "Banner",
+        "contact info": "Contact Info",
+        "food": "Food",
+        "Food": "Food",
+        "Food Category": "Food Category",
+        "news": "News",
+        "company": "Company",
+        "store": "Store",
+        "delivery": "Delivery",
+        "brand": "Brand",
+        "dashboard": "Dashboard",
+        "administrator": "Adminstrator",
+        "bundle": "Bundle",
+        "Bundle": "Bundles",
+        "User": "Users",
+        "Permission": "Permissions",
+        "Role": "Roles",
+        "product": "Product",
+        "Product": "Products",
+        "Product Category": "Product Categories",
+        "promotion": "Promotion",
+        "Promotion": "Promotions",
+        "member": "Member",
+        "Member": "Members",
+        "MemberVerification": "Member Verifications",
+        "fact": "Fact",
+        "Fact": "Facts",
+        "setting": "Setting",
+        "Setting": "Settings",
+        "invoice": "Invoice",
+        "FactCategory": "Fact Categories",
+        "Banner": "Banner",
+        "district": "District",
+        "Brand": "Brand",
+        "Invoice Product": "Invoice Product",
+        "Invoice Food": "Invoice Food"
+    },
+    "common": {
+        "originalPrice": "Original Price",
+        "published": "Published",
+        "unpublished": "Unpublished",
+        "category": "Category",
+        "price": "Price",
+        "quantity": "Quantity",
+        "discount": "Discount",
+        "bestSeller": "Best Seller",
+        "brand": "Brand",
+        "longitude": "Longitude",
+        "latitude": "Latitude",
+        "phone": "Phone",
+        "code": "Code",
+        "facebook": "Facebook",
+        "typeName": "Type Name",
+        "coverImage": "Cover Image",
+        "introduction": "Introduction",
+        "time": "Time",
+        "id": "ID",
+        "districtId": "District Id",
+        "locale": "Locale",
+        "name": "Name",
+        "content": "Content",
+        "termAndCondition": "Term and Condition",
+        "title": "Title",
+        "gender": "Gender",
+        "description": "Description",
+        "email": "Email",
+        "district": "District",
+        "address": "Address",
+        "sort": "Sort",
+        "url": "Url",
+        "sorting": "Sorting",
+        "permissions": "Permissions",
+        "createdAt": "Created At",
+        "createdBy": "Created By",
+        "updatedAt": "Updated At",
+        "updatedBy": "Updated By",
+        "isActive": "Is Active",
+        "create": "Create",
+        "view": "View",
+        "edit": "Edit",
+        "delete": "Delete",
+        "export": "Export",
+        "search": "Search",
+        "clear": "Clear",
+        "action": "Action",
+        "collapse": "Collapse",
+        "expand": "Expand",
+        "remove": "Remove",
+        "add": "Add",
+        "save": "Save",
+        "cancel": "Cancel",
+        "enabled": "Enabled",
+        "disabled": "Disabled",
+        "enable": "Enable",
+        "disable": "Disable",
+        "resetPasswordByEmail": "Reset Password By Email",
+        "resetPasswordByPhone": "Reset Password By Phone",
+        "changeStatus": "Change Status",
+        "thumbnail": "Thumbnail",
+        "publishedAt": "Published",
+        "unpublishedAt": "Unpublished",
+        "type": "Type",
+        "all": "All",
+        "selectOne": "Select One",
+        "uploadFile": "Upload File",
+        "yes": "Yes",
+        "no": "No",
+        "true": "True",
+        "false": "False",
+        "publishFrom": "Publish From",
+        "publishTo": "Publish To",
+        "addImage": "Add Image"
+    },
+    "formLanguage": {
+        "address": {
+            "tc": "Address Chinese",
+            "en": "Address English",
+            "sc": "Address Simplified Chinese"
+        },
+        "introduction": {
+            "tc": "Introduction Chinese",
+            "en": "Introduction English",
+            "sc": "Introduction Simplified Chinese"
+        },
+        "time": {
+            "tc": "Time Chinese",
+            "en": "Time English",
+            "sc": "Time Simplified Chinese"
+        },
+        "typeName": {
+            "tc": "Type Name Chinese",
+            "en": "Type Name English",
+            "sc": "Type Name Simplified Chinese"
+        },
+        "name": {
+            "tc": "Name Chinese",
+            "en": "Name English",
+            "sc": "Name Simplified Chinese"
+        },
+        "title": {
+            "tc": "Title Chinese",
+            "en": "Title English",
+            "sc": "Title Simplified Chinese"
+        },
+        "description": {
+            "tc": "Description Chinese",
+            "en": "Description English",
+            "sc": "Description Simplified Chinese"
+        },
+        "content": {
+            "tc": "Content Chinese",
+            "en": "Content English",
+            "sc": "Content Simplified Chinese"
+        },
+        "termAndCondition": {
+            "tc": "Term and Condition Chinese",
+            "en": "Term and Condition English",
+            "sc": "Term and Condition Simplified Chinese"
+        },
+        "brief": {
+            "tc": "Brief Chinese",
+            "en": "Brief English",
+            "sc": "Brief Simplified Chinese"
+        },
+        "itemName": {
+            "tc": "Name Chinese",
+            "en": "Name English",
+            "sc": "Name Simplified Chinese"
+        }
+    },
+    "language": {
+        "en": "English",
+        "tc": "Chinese",
+        "sc": "Simplified Chinese"
+    },
+    "user": {
+        "user": "User Management",
+        "create": "Create new User",
+        "edit": "Edit User",
+        "view": "View User",
+        "password": "Password",
+        "confirmPassword": "Confirm Password",
+        "oldPassword": "Old Password",
+        "newPassword": "New Password",
+        "signUpFrom": "Sign Up From",
+        "role": "Role",
+        "isKitchen": "Is Kitchen"
+    },
+    "member": {
+        "member": "Member Management",
+        "title": "Title",
+        "dob": "DOB",
+        "gender": "Gender",
+        "name": "Name",
+        "birthDay": "Birthday",
+        "birthMonth": "Month Of Birth",
+        "birthYear": "Year Of Birth",
+        "password": "Password",
+        "view": "View Member",
+        "create": "Create Member",
+        "edit": "Edit Member",
+        "isNotifiable": "Is Notifiable",
+        "isEmailVerified": "Is Email Verified",
+        "isPhoneVerified": "Is Phone Verified",
+        "avatar": "Avatar"
+    },
+    "fact": {
+        "categoryId": "Category ID",
+        "fact": "Fact Management",
+        "view": "View Fact",
+        "edit": "Edit Fact",
+        "create": "Create Fact",
+        "categoryName": "Category Name"
+    },
+    "factCategory": {
+        "factCategory": "Fact Category Management",
+        "view": "View Fact Category",
+        "edit": "Edit Fact Category",
+        "create": "Create Fact Category",
+        "factType": "Fact Type",
+        "facts": "Facts",
+        "TERM_AND_CONDITION": "Term And Condition",
+        "ABOUT_US": "About Us",
+        "PRIVACY": "Privacy",
+        "FAQ": "FAQ"
+    },
+    "food": {
+        "category": {
+            "name": "Category Name"
+        },
+        "food": "Food Management",
+        "view": "View Food",
+        "edit": "Edit Food",
+        "create": "Create Food",
+        "popular": "Popular",
+        "isHaveExtras": "Is Have Extras",
+        "extra": "Extra",
+        "extras": {
+            "title": "Extras",
+            "limit": "Limit",
+            "reqOpt": "Require Option",
+            "detail": "Detail",
+            "details": {
+                "title": "Details",
+                "price": "Price"
+            }
+        }
+    },
+    "foodCategory": {
+        "foodCategory": "Food Category Management",
+        "view": "View Food Category",
+        "edit": "Edit Food Category",
+        "create": "Create Food Category"
+    },
+    "product": {
+        "medias": "Medias",
+        "type": "Product Type",
+        "productName": "Product Name",
+        "popular": "Popular",
+        "product": "Product Management",
+        "create": "Create new Product",
+        "edit": "Edit Product",
+        "view": "View Product",
+        "priceFrom": "Price From",
+        "priceTo": "Price To",
+        "extraFoods": {
+            "en": "Extra Food English",
+            "tc": "Extra Food TC",
+            "sc": "Extra Food SC",
+            "price": "Extra Food Price",
+            "sort": "Extra Food Sort"
+        }
+    },
+    "productCategory": {
+        "productCategory": "Product Category Management",
+        "view": "View Product Category",
+        "edit": "Edit Product Category",
+        "create": "Create Product Category"
+    },
+    "invoice": {
+        "NOT_YET_PAID": "Not yet paid",
+        "PAYING": "Paying",
+        "MAKING_FOOD": "Making food",
+        "READY_FOR_PICK_UP": "Ready for pick up",
+        "PAID": "Paid",
+        "COMPLETED": "Completed",
+        "FAILED": "Failed",
+        "CANCELLED": "Cancelled",
+        "VOID": "Void",
+        "id": "ID",
+        "invoiceNumber": "Invoice Number",
+        "subtotal": "Subtotal",
+        "total": "Total",
+        "method": "Method",
+        "status": "Status",
+        "view": "View Invoice",
+        "food": {
+            "invoiceFood": "Invoice Food Management",
+            "pickupDate": "Pickup Date",
+            "pickupTime": "Pickup Time",
+            "store": "Store"
+        },
+        "product": {
+            "invoiceProduct": "Invoice Product Management",
+            "deliveryType": "Delivery Type",
+            "shippingDate": "Shipping Date",
+            "shippingBlockTime": "Shipping Block Time",
+            "fullAddress": "Full Address",
+            "deliveryFee": "Delivery Fee"
+        },
+        "member": {
+            "member": "Member",
+            "title": "Title",
+            "name": "Member Name",
+            "email": "Member Email",
+            "phone": "Member Phone",
+            "dob": "Date of Birth",
+            "gender": "Gender",
+            "isNotifiable": "Is Notifiable",
+            "isEmailVerified": "Is Email Verified",
+            "isPhoneVerified": "Is Phone Verified"
+        },
+        "store": {
+            "store": "Store",
+            "name": "Store Name",
+            "address": "Store Address",
+            "phone": "Store Phone",
+            "coverImage": "Cover Image"
+        },
+        "memberAddress": {
+            "memberAddress": "Member Address",
+            "addressTitle": "Address Title",
+            "default": "Default"
+        },
+        "item": {
+            "items": "Items",
+            "unitPrice": "Unit Price",
+            "food": {
+                "name": "Food Name"
+            },
+            "product": {
+                "name": "Product Name"
+            },
+            "extra": {
+                "extras": "Extras",
+                "name": "Extra Name"
+            }
+        }
+    },
+    "validation": {
+        "itemIsRequiredField": "This field is required",
+        "fileIsRequired": "File is required",
+        "itemIsInvalidType": "This field is invalid",
+        "itemIsGreaterThanZero": "This field must be greater than 0",
+        "itemIsEqualOrGreaterThanZero": "This field must be greater than or equal to 0",
+        "itemCannotBeInFuture": "This field cannot be in future",
+        "itemMin1": "This field must have at least 1 item",
+        "itemIsPositiveNumber": "This field must be positive number",
+        "passwordMustMatch": "Password must match",
+        "passwordRegex": "Must have at least 1 uppercase, 1 lowercase and 1 number",
+        "passwordRegexMember": "Must have at least 1 character and 1 number",
+        "passwordMinLength": "Password must be at least 8 characters",
+        "newPasswordMustDiffer": "New password must differ from old password",
+        "emailRegex": "Email is invalid",
+        "phoneOrEmailIsRequired": "Must be filled at least one of Phone or Email field",
+        "pushValidate": {
+            "periodDateValidate": "End Period Date must be after Start Period Date",
+            "joinDateValidate": "Join To must be after Join From"
+        },
+        "unpublishDateValidate": "Unpublish Date must be after Publish Date",
+        "unPublishDateFutureValidate": "Unpublished must be in the future",
+        "invalidFormatPhones": "Invalid format (phone, phone, ...)",
+        "invalidCodePromotion": "Invalid code. Only A-Z, a-z, 0-9, _ and - are allowed",
+        "selectBrandFirstToSelectCategory": "Please select Brand first to select Category",
+        "dateValidate": "Date must be today or in the future",
+        "priceValidate": "Price must be greater than or equal to the Original Price",
+        "itemIsInteger": "This field must be an integer"
+    },
+    "role": {
+        "role": "Role Management",
+        "create": "Create new Role",
+        "edit": "Edit Role",
+        "view": "View Role"
+    },
+    "brand": {
+        "brand": "Brand Management",
+        "view": "View Brand",
+        "create": "Create Brand",
+        "edit": "Edit Brand",
+        "name": "Brand name"
+    },
+    "district": {
+        "district": "District Management",
+        "view": "View District",
+        "create": "Create District",
+        "edit": "Edit District",
+        "regionName": "Region Name",
+        "regionCode": "Region Code"
+    },
+    "region": {
+        "region": "Region Management",
+        "view": "View Region",
+        "create": "Create Region",
+        "edit": "Edit Region"
+    },
+    "delivery": {
+        "delivery": "Delivery Management",
+        "view": "View Delivery",
+        "create": "Create Delivery",
+        "edit": "Edit Delivery",
+        "deliveryItems": "Delivery Items",
+        "deliveryItem": "Delivery Item"
+    },
+    "banner": {
+        "banner": "Banner Management",
+        "view": "View Banner",
+        "create": "Create Banner",
+        "edit": "Edit Banner",
+        "brief": "Brief",
+        "sort": "Sort",
+        "mime": "Mime",
+        "urlId": "Url Id",
+        "BANNER": "Banner",
+        "SLIDER": "Slider"
+    },
+    "setting": {
+        "setting": "Setting Management",
+        "view": "View Setting",
+        "edit": "Edit Setting",
+        "value": "Value",
+        "STRING": "String",
+        "NUMBER": "Number",
+        "BOOLEAN": "Boolean",
+        "ONOFF": "On/Off",
+        "YESNO": "Yes/No",
+        "key": "Key"
+    },
+    "weekday": {
+        "0": "Monday",
+        "1": "Tuesday",
+        "2": "Wednesday",
+        "3": "Thursday",
+        "4": "Friday",
+        "5": "Saturday",
+        "6": "Sunday"
+    },
+    "month": {
+        "1": "January",
+        "2": "February",
+        "3": "March",
+        "4": "April",
+        "5": "May",
+        "6": "June",
+        "7": "July",
+        "8": "August",
+        "9": "September",
+        "10": "October",
+        "11": "November",
+        "12": "December"
+    },
+    "message": {
+        "itemIsCreatedSuccessful": "Item is created successful",
+        "itemIsUpdateSuccessful": "Item is updated successful",
+        "itemIsDeleteSuccessful": "Item is deleted successful",
+        "itemIsDisableSuccessful": "Item is disabled successful",
+        "itemIsEnableSuccessful": "Item is enabled successful",
+        "resetPasswordByEmailSuccessful": "Reset password by email successful",
+        "resetPasswordByPhoneSuccessful": "Reset password by phone successful",
+        "changeStatusSuccessful": "Change status successful",
+        "itemIsUsedSuccessful": "Item is used successful",
+        "enableEShop": "Enable eShop",
+        "disableEShop": "Disable eShop"
+    },
+    "swal": {
+        "wrongRatio": "Ratio not match",
+        "wrongRatioContent": "Ratio should be 1.7/1",
+        "fileTooLarge": "File too large",
+        "fileTooLargeContent": "File should be under 5MB",
+        "confirmTitle": "Are you sure?",
+        "confirmDeleteContent": "You won't be able to revert this!",
+        "confirmDeleteText": "Delete",
+        "confirmEnableText": "Enable",
+        "confirmDisableText": "Disable",
+        "OK": "OK",
+        "invalidFileType": "Invalid file type",
+        "invalidFileText": "Please select an image file.",
+        "changeStatusInvoiceTitle": "Change Status Invoice",
+        "changeStatusInvoicePlaceholder": "Select status",
+        "changeUsedMemberItemTitle": "Do you want to use the {productName} ?",
+        "use": "Use"
+    }
+}

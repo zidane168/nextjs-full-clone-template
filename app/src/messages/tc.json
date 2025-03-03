@@ -1,0 +1,531 @@
+{
+    "header": {
+        "logout": "登出"
+    },
+    "loginPage": {
+        "login": "登入",
+        "email": "電子郵件",
+        "password": "密碼"
+    },
+    "company": {
+        "company": "公司資訊",
+        "view": "公司詳情",
+        "edit": "編輯公司",
+        "create": "創建公司"
+    },
+    "contactInfo": {
+        "contactInfo": "聯絡方式管理",
+        "view": "聯絡方式詳情",
+        "edit": "聯絡方式編輯",
+        "create": "聯絡方式創建",
+        "fax": "傳真",
+        "whatsapp": "WhatsApp"
+    },
+    "store": {
+        "store": "店铺資訊",
+        "view": "店铺詳情",
+        "edit": "店铺編輯",
+        "create": "店铺創建"
+    },
+    "new": {
+        "new": "新聞管理",
+        "view": "新聞詳情",
+        "edit": "新聞編輯",
+        "create": "新聞創建",
+        "contentImage": "內容圖片",
+        "eventDate": "活動日期"
+    },
+    "sidebar": {
+        "Region": "地區",
+        "banner": "橫幅",
+        "contact info": "聯絡資訊",
+        "food": "食品",
+        "Food": "食品",
+        "Food Category": "食品類別",
+        "news": "新聞",
+        "company": "公司",
+        "store": "店铺",
+        "delivery": "配送",
+        "brand": "品牌",
+        "dashboard": "儀表板",
+        "administrator": "管理員",
+        "bundle": "組合",
+        "Bundle": "組合",
+        "User": "用戶",
+        "Permission": "權限",
+        "Role": "角色",
+        "product": "產品",
+        "Product": "產品",
+        "Product Category": "產品類別",
+        "promotion": "促銷",
+        "Promotion": "促銷",
+        "member": "會員",
+        "Member": "會員",
+        "MemberVerification": "會員驗證",
+        "fact": "事實",
+        "Fact": "事實",
+        "setting": "設置",
+        "Setting": "設置",
+        "invoice": "發票",
+        "FactCategory": "事實類別",
+        "Banner": "橫幅",
+        "district": "區域",
+        "Brand": "品牌",
+        "Invoice Product": "發票產品",
+        "Invoice Food": "發票食品"
+    },
+    "common": {
+        "originalPrice": "原價",
+        "published": "已發布",
+        "unpublished": "未發布",
+        "category": "類別",
+        "price": "價格",
+        "quantity": "數量",
+        "discount": "折扣",
+        "bestSeller": "暢銷",
+        "brand": "品牌",
+        "longitude": "經度",
+        "latitude": "緯度",
+        "phone": "電話",
+        "code": "代碼",
+        "facebook": "Facebook",
+        "typeName": "類型名稱",
+        "coverImage": "封面圖片",
+        "introduction": "介紹",
+        "time": "時間",
+        "id": "ID",
+        "districtId": "區域 ID",
+        "locale": "語言",
+        "name": "名稱",
+        "content": "內容",
+        "termAndCondition": "條款和條件",
+        "title": "標題",
+        "gender": "性別",
+        "description": "描述",
+        "email": "電子郵件",
+        "district": "區域",
+        "address": "地址",
+        "sort": "排序",
+        "url": "網址",
+        "sorting": "排序",
+        "permissions": "權限",
+        "createdAt": "創建於",
+        "createdBy": "創建者",
+        "updatedAt": "更新於",
+        "updatedBy": "更新者",
+        "isActive": "是否啟用",
+        "create": "創建",
+        "view": "查看",
+        "edit": "編輯",
+        "delete": "刪除",
+        "export": "導出",
+        "search": "搜索",
+        "clear": "清除",
+        "action": "操作",
+        "collapse": "折疊",
+        "expand": "展開",
+        "remove": "移除",
+        "add": "添加",
+        "save": "保存",
+        "cancel": "取消",
+        "enabled": "已啟用",
+        "disabled": "已禁用",
+        "enable": "啟用",
+        "disable": "禁用",
+        "resetPasswordByEmail": "通過電子郵件重置密碼",
+        "resetPasswordByPhone": "通過電話重置密碼",
+        "changeStatus": "更改狀態",
+        "thumbnail": "縮略圖",
+        "publishedAt": "發布於",
+        "unpublishedAt": "未發布於",
+        "type": "類型",
+        "all": "全部",
+        "selectOne": "選擇一個",
+        "uploadFile": "上傳文件",
+        "yes": "是",
+        "no": "否",
+        "true": "是",
+        "false": "否",
+        "publishFrom": "發布自",
+        "publishTo": "發布至",
+        "addImage": "添加圖片"
+    },
+    "formLanguage": {
+        "address": {
+            "tc": "地址（繁體中文）",
+            "en": "Address (English)",
+            "sc": "地址（簡體中文）"
+        },
+        "introduction": {
+            "tc": "介紹（繁體中文）",
+            "en": "Introduction (English)",
+            "sc": "介紹（簡體中文）"
+        },
+        "time": {
+            "tc": "時間（繁體中文）",
+            "en": "Time (English)",
+            "sc": "時間（簡體中文）"
+        },
+        "typeName": {
+            "tc": "類型名稱（繁體中文）",
+            "en": "Type Name (English)",
+            "sc": "類型名稱（簡體中文）"
+        },
+        "name": {
+            "tc": "名稱（繁體中文）",
+            "en": "Name (English)",
+            "sc": "名稱（簡體中文）"
+        },
+        "title": {
+            "tc": "標題（繁體中文）",
+            "en": "Title (English)",
+            "sc": "標題（簡體中文）"
+        },
+        "description": {
+            "tc": "描述（繁體中文）",
+            "en": "Description (English)",
+            "sc": "描述（簡體中文）"
+        },
+        "content": {
+            "tc": "內容（繁體中文）",
+            "en": "Content (English)",
+            "sc": "內容（簡體中文）"
+        },
+        "termAndCondition": {
+            "tc": "條款和條件（繁體中文）",
+            "en": "Term and Condition (English)",
+            "sc": "條款和條件（簡體中文）"
+        },
+        "brief": {
+            "tc": "簡介（繁體中文）",
+            "en": "Brief (English)",
+            "sc": "簡介（簡體中文）"
+        },
+        "itemName": {
+            "tc": "名稱（繁體中文）",
+            "en": "Name (English)",
+            "sc": "名稱（簡體中文）"
+        }
+    },
+    "language": {
+        "en": "英語",
+        "tc": "繁體中文",
+        "sc": "簡體中文"
+    },
+    "user": {
+        "user": "用戶管理",
+        "create": "創建新用戶",
+        "edit": "編輯用戶",
+        "view": "查看用戶",
+        "password": "密碼",
+        "confirmPassword": "確認密碼",
+        "oldPassword": "舊密碼",
+        "newPassword": "新密碼",
+        "signUpFrom": "註冊來源",
+        "role": "角色",
+        "isKitchen": "是否廚房"
+    },
+    "member": {
+        "member": "會員管理",
+        "title": "標題",
+        "dob": "出生日期",
+        "gender": "性別",
+        "name": "姓名",
+        "birthDay": "生日",
+        "birthMonth": "出生月份",
+        "birthYear": "出生年份",
+        "password": "密碼",
+        "view": "查看會員",
+        "create": "創建會員",
+        "edit": "編輯會員",
+        "isNotifiable": "是否通知",
+        "isEmailVerified": "電子郵件是否已驗證",
+        "isPhoneVerified": "電話是否已驗證",
+        "avatar": "頭像"
+    },
+    "fact": {
+        "categoryId": "類別 ID",
+        "fact": "事實管理",
+        "view": "查看事實",
+        "edit": "編輯事實",
+        "create": "創建事實",
+        "categoryName": "類別名稱"
+    },
+    "factCategory": {
+        "factCategory": "事實類別管理",
+        "view": "查看事實類別",
+        "edit": "編輯事實類別",
+        "create": "創建事實類別",
+        "factType": "事實類型",
+        "facts": "事實",
+        "TERM_AND_CONDITION": "條款和條件",
+        "ABOUT_US": "關於我們",
+        "PRIVACY": "隱私",
+        "FAQ": "常見問題"
+    },
+    "food": {
+        "category": {
+            "name": "類別名稱"
+        },
+        "food": "食品管理",
+        "view": "查看食品",
+        "edit": "編輯食品",
+        "create": "創建食品",
+        "popular": "熱門",
+        "isHaveExtras": "是否有額外選項",
+        "extra": "額外選項",
+        "extras": {
+            "title": "額外選項",
+            "limit": "限制",
+            "reqOpt": "必須選項",
+            "detail": "詳情",
+            "details": {
+                "title": "詳情",
+                "price": "價格"
+            }
+        }
+    },
+    "foodCategory": {
+        "foodCategory": "食品類別管理",
+        "view": "查看食品類別",
+        "edit": "編輯食品類別",
+        "create": "創建食品類別"
+    },
+    "product": {
+        "medias": "媒體",
+        "type": "產品類型",
+        "productName": "產品名稱",
+        "popular": "流行",
+        "product": "產品管理",
+        "create": "創建新產品",
+        "edit": "編輯產品",
+        "view": "查看產品",
+        "priceFrom": "價格從",
+        "priceTo": "價格至",
+        "extraFoods": {
+            "en": "附加食品（英語）",
+            "tc": "附加食品（繁體中文）",
+            "sc": "附加食品（簡體中文）",
+            "price": "附加食品價格",
+            "sort": "附加食品排序"
+        }
+    },
+    "productCategory": {
+        "productCategory": "產品類別管理",
+        "view": "查看產品類別",
+        "edit": "編輯產品類別",
+        "create": "創建產品類別"
+    },
+    "invoice": {
+        "NOT_YET_PAID": "尚未付款",
+        "PAYING": "支付中",
+        "MAKING_FOOD": "製作中",
+        "READY_FOR_PICK_UP": "可取貨",
+        "PAID": "已付款",
+        "COMPLETED": "已完成",
+        "FAILED": "失敗",
+        "CANCELLED": "已取消",
+        "VOID": "無效",
+        "id": "ID",
+        "invoiceNumber": "發票號碼",
+        "subtotal": "小計",
+        "total": "總計",
+        "method": "方式",
+        "status": "狀態",
+        "view": "查看發票",
+        "food": {
+            "invoiceFood": "發票食品管理",
+            "pickupDate": "取貨日期",
+            "pickupTime": "取貨時間",
+            "store": "店鋪"
+        },
+        "product": {
+            "invoiceProduct": "發票產品管理",
+            "deliveryType": "配送方式",
+            "shippingDate": "送貨日期",
+            "shippingBlockTime": "送貨時段",
+            "fullAddress": "完整地址",
+            "deliveryFee": "配送費用"
+        },
+        "member": {
+            "member": "會員",
+            "title": "標題",
+            "name": "會員姓名",
+            "email": "會員電子郵件",
+            "phone": "會員電話",
+            "dob": "出生日期",
+            "gender": "性別",
+            "isNotifiable": "是否通知",
+            "isEmailVerified": "電子郵件是否已驗證",
+            "isPhoneVerified": "電話是否已驗證"
+        },
+        "store": {
+            "store": "店鋪",
+            "name": "店鋪名稱",
+            "address": "店鋪地址",
+            "phone": "店鋪電話",
+            "coverImage": "封面圖片"
+        },
+        "memberAddress": {
+            "memberAddress": "會員地址",
+            "addressTitle": "地址標題",
+            "default": "默認"
+        },
+        "item": {
+            "items": "項目",
+            "unitPrice": "單價",
+            "food": {
+                "name": "食品名稱"
+            },
+            "product": {
+                "name": "產品名稱"
+            },
+            "extra": {
+                "extras": "附加項",
+                "name": "附加項名稱"
+            }
+        }
+    },
+    "validation": {
+        "itemIsRequiredField": "此欄位為必填項",
+        "fileIsRequired": "文件為必填項",
+        "itemIsInvalidType": "此欄位類型無效",
+        "itemIsGreaterThanZero": "此欄位必須大於0",
+        "itemIsEqualOrGreaterThanZero": "此欄位必須大於或等於0",
+        "itemCannotBeInFuture": "此欄位不能是未來的時間",
+        "itemMin1": "此欄位至少需要1個項目",
+        "itemIsPositiveNumber": "此欄位必須是正數",
+        "passwordMustMatch": "密碼必須相符",
+        "passwordRegex": "必須包含至少一個大寫字母、一個小寫字母和一個數字",
+        "passwordRegexMember": "必須包含至少一個字符和一個數字",
+        "passwordMinLength": "密碼長度至少為8個字符",
+        "newPasswordMustDiffer": "新密碼必須與舊密碼不同",
+        "emailRegex": "電子郵件無效",
+        "phoneOrEmailIsRequired": "電話或電子郵件欄位至少必須填寫一個",
+        "pushValidate": {
+            "periodDateValidate": "結束日期必須在開始日期之後",
+            "joinDateValidate": "加入日期必須在開始日期之後"
+        },
+        "unpublishDateValidate": "取消發布日期必須在發布日期之後",
+        "unPublishDateFutureValidate": "取消發布日期不能是未來的時間",
+        "invalidFormatPhones": "無效的格式（電話、電話...）",
+        "invalidCodePromotion": "無效的代碼。僅允許A-Z、a-z、0-9、_和-",
+        "selectBrandFirstToSelectCategory": "請先選擇品牌再選擇類別",
+        "dateValidate": "結束日期必須在開始日期之後",
+        "priceValidate": "價錢必須與原價一樣或較大",
+        "itemIsInteger": "此欄位必須是整數"
+    },
+    "role": {
+        "role": "角色管理",
+        "create": "創建新角色",
+        "edit": "編輯角色",
+        "view": "查看角色"
+    },
+    "brand": {
+        "brand": "品牌管理",
+        "view": "查看品牌",
+        "create": "創建品牌",
+        "edit": "編輯品牌",
+        "name": "品牌名稱"
+    },
+    "district": {
+        "district": "地區管理",
+        "view": "查看地區",
+        "create": "創建地區",
+        "edit": "編輯地區",
+        "regionName": "區域名稱",
+        "regionCode": "區域代碼"
+    },
+    "region": {
+        "region": "區域管理",
+        "view": "查看區域",
+        "create": "創建區域",
+        "edit": "編輯區域"
+    },
+    "delivery": {
+        "delivery": "配送管理",
+        "view": "查看配送",
+        "create": "創建配送",
+        "edit": "編輯配送",
+        "deliveryItems": "配送項目",
+        "deliveryItem": "配送項目"
+    },
+    "banner": {
+        "banner": "橫幅管理",
+        "view": "查看橫幅",
+        "create": "創建橫幅",
+        "edit": "編輯橫幅",
+        "brief": "簡要",
+        "sort": "排序",
+        "mime": "MIME",
+        "urlId": "URL ID",
+        "BANNER": "橫幅",
+        "SLIDER": "幻燈片"
+    },
+    "setting": {
+        "setting": "設置管理",
+        "view": "查看設置",
+        "edit": "編輯設置",
+        "value": "值",
+        "STRING": "字符串",
+        "NUMBER": "數字",
+        "BOOLEAN": "布爾值",
+        "ONOFF": "開/關",
+        "YESNO": "是/否",
+        "key": "鍵"
+    },
+    "weekday": {
+        "0": "星期一",
+        "1": "星期二",
+        "2": "星期三",
+        "3": "星期四",
+        "4": "星期五",
+        "5": "星期六",
+        "6": "星期日"
+    },
+    "month": {
+        "1": "一月",
+        "2": "二月",
+        "3": "三月",
+        "4": "四月",
+        "5": "五月",
+        "6": "六月",
+        "7": "七月",
+        "8": "八月",
+        "9": "九月",
+        "10": "十月",
+        "11": "十一月",
+        "12": "十二月"
+    },
+    "message": {
+        "itemIsCreatedSuccessful": "項目創建成功",
+        "itemIsUpdateSuccessful": "項目更新成功",
+        "itemIsDeleteSuccessful": "項目刪除成功",
+        "itemIsDisableSuccessful": "項目禁用成功",
+        "itemIsEnableSuccessful": "項目啟用成功",
+        "resetPasswordByEmailSuccessful": "通過電子郵件重置密碼成功",
+        "resetPasswordByPhoneSuccessful": "通過電話重置密碼成功",
+        "changeStatusSuccessful": "狀態更改成功",
+        "itemIsUsedSuccessful": "項目使用成功",
+        "enableEShop": "啟用 eShop",
+        "disableEShop": "禁用 eShop"
+    },
+    "swal": {
+        "wrongRatio": "比例不匹配",
+        "wrongRatioContent": "比例應為1.7/1",
+        "fileTooLarge": "文件過大",
+        "fileTooLargeContent": "文件應小於5MB",
+        "confirmTitle": "你確定嗎？",
+        "confirmDeleteContent": "這將無法還原！",
+        "confirmDeleteText": "刪除",
+        "confirmEnableText": "啟用",
+        "confirmDisableText": "禁用",
+        "OK": "確定",
+        "invalidFileType": "無效的文件類型",
+        "invalidFileText": "請選擇一個圖像文件。",
+        "changeStatusInvoiceTitle": "更改發票狀態",
+        "changeStatusInvoicePlaceholder": "選擇狀態",
+        "changeUsedMemberItemTitle": "您想使用 {productName} 嗎？",
+        "use": "使用"
+    }
+}
