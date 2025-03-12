@@ -9,8 +9,8 @@ import { WEBSITE_LANGUAGES } from "@/utils/constants"
 import { ILayoutParams } from "@/types/common"
 
 export const metadata: Metadata = {
-    title: "Chickenpot CRM",
-    description: "Built for Chickenpot CRM",
+    title: "CRM",
+    description: "Built for CRM",
 }
 
 export async function generateStaticParams() {
